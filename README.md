@@ -42,4 +42,4 @@ At `snipshot`, we use cutting-edge technologies to create aa application that is
 
 ## Contacts 📨 <a id="contacts"></a>
 
-If you want to get in touch, we will be glad to receive your e-mail: [info@snipshot.dev](mailto:info@snipshot.dev).
+If you want to get in touch, we will be glad to receive your e-mail: [info@snipshot.dev](mailto:info@snipshot.dev) 😉.
