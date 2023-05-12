@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://snipshot.dev" aria-label="Navigate to snipshot.dev">
-    <img src="./logo.svg" alt="snipshot logo" width="400" />
-  </a>
-</p>
+[![snipshot logo](./logo.svg)](https://snipshot.dev)
 
 # snipshot.dev
 
@@ -42,4 +38,4 @@ At `snipshot`, we use cutting-edge technologies to create aa application that is
 
 ## Contacts 📨 <a id="contacts"></a>
 
-If you want to get in touch, we will be glad to receive your e-mail: [info@snipshot.dev](mailto:info@snipshot.dev) 😉.
+If you want to get in touch, we will be glad to receive your e-mail 😉: [info@snipshot.dev](mailto:info@snipshot.dev).
